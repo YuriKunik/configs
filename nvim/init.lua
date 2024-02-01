@@ -1,0 +1,7 @@
+require('opciones')
+require('mapeos')
+require('paquetes')
+require('mason_conf')
+require('paquetes_conf')
+require('colores')
+require('slime')
